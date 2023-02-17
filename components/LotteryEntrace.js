@@ -79,7 +79,7 @@ const LotteryEntrace = () => {
 
   return (
     <>
-      <div className="p-5">LotteryEntrace</div>
+      <div className="p-5">Enter the Raffle!!!</div>
       {raffleAddress ? (
         <>
           <button
